@@ -1,11 +1,11 @@
 {
   "name": "smash_rend",
   "version": "1.0.0",
-  "description": "Rendering ThreeJS examples",
+  "description": "ThreeJS experimentation",
   "main": "server.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
